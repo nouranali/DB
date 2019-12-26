@@ -1,0 +1,60 @@
+([('main.exe',
+   'C:\\Users\\CRIZMA MEGA '
+   'STORE\\Desktop\\databaseprojs\\storeinsecstorage\\venv\\Scripts\\build\\main\\main.exe',
+   'EXECUTABLE'),
+  ('main.exe.manifest',
+   'C:\\Users\\CRIZMA MEGA '
+   'STORE\\Desktop\\databaseprojs\\storeinsecstorage\\venv\\Scripts\\build\\main\\main.exe.manifest',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'c:\\users\\crizma mega '
+   'store\\appdata\\local\\programs\\python\\python37\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('python37.dll',
+   'c:\\users\\crizma mega '
+   'store\\appdata\\local\\programs\\python\\python37\\python37.dll',
+   'BINARY'),
+  ('_ssl',
+   'c:\\users\\crizma mega '
+   'store\\appdata\\local\\programs\\python\\python37\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'c:\\users\\crizma mega '
+   'store\\appdata\\local\\programs\\python\\python37\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'c:\\users\\crizma mega '
+   'store\\appdata\\local\\programs\\python\\python37\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'c:\\users\\crizma mega '
+   'store\\appdata\\local\\programs\\python\\python37\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('select',
+   'c:\\users\\crizma mega '
+   'store\\appdata\\local\\programs\\python\\python37\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'c:\\users\\crizma mega '
+   'store\\appdata\\local\\programs\\python\\python37\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'c:\\users\\crizma mega '
+   'store\\appdata\\local\\programs\\python\\python37\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'c:\\users\\crizma mega '
+   'store\\appdata\\local\\programs\\python\\python37\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('libssl-1_1-x64.dll',
+   'c:\\users\\crizma mega '
+   'store\\appdata\\local\\programs\\python\\python37\\DLLs\\libssl-1_1-x64.dll',
+   'BINARY'),
+  ('libcrypto-1_1-x64.dll',
+   'c:\\users\\crizma mega '
+   'store\\appdata\\local\\programs\\python\\python37\\DLLs\\libcrypto-1_1-x64.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\CRIZMA MEGA '
+   'STORE\\Desktop\\databaseprojs\\storeinsecstorage\\venv\\Scripts\\build\\main\\base_library.zip',
+   'DATA')],)
